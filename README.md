@@ -1,4 +1,4 @@
-# Predicting The Clicked Advertisement
+# Predicting The Customers Click on Advertisement
 
 ## Short Information
 - Dataset is retrived from [DQLab](https://www.dqlab.id/) course
